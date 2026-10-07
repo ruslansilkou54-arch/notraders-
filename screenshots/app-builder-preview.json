@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "notraders",
+      "hasCanvas": false,
+      "bodyTextLen": 9,
+      "bodyTextHash": "cdc72f98fa9db8de5f66f81ce4b02ffbddb5039db40d98a073e8b636f7462fbf",
+      "bodyTextPrefix": "notraders",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "notraders",
+      "hasCanvas": false,
+      "bodyTextLen": 288,
+      "bodyTextHash": "dc45e6752521a5c06c482f20b715513039c6a01d1b196d1f8958be4eb91df192",
+      "bodyTextPrefix": "AN Hi, Anowar Добрый день Добавить сделку Mon 5 Tue 6 Wed 7 Thu ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vercel / deployment output
+.vercel/
+
+# Framework/tool caches
+.tanstack/
+
+# Grok workspace / generated environment files
+.grok/
+
+# Local lock/artifacts
+.node_modules.lock
+.project_id
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor files
+.DS_Store
+*.log
+
+# Optional local screenshots
+# screenshots/
